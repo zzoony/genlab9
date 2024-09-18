@@ -1,6 +1,5 @@
 'use client'
 
-import { ChevronDownIcon } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
@@ -86,10 +85,10 @@ export function MainPage() {
 
       <Card>
         <CardContent className="p-6 space-y-2">
-          <p>#하이볼덕후들 모여라! 👋 하이볼 모음전 최대 40% 할인 (9/1~30일 초특가 행사)</p>
+          {/* <p>#하이볼덕후들 모여라! 👋 하이볼 모음전 최대 40% 할인 (9/1~30일 초특가 행사)</p>
           <p>#MZ세대 짱짱싸 하이볼 1+1 ✨ (배달, 픽업 주문 시 단독 혜택)</p>
           <p>#오늘도 하이볼 각? 🍹 월,화,수 하이볼 4캔 9,900원 (9/1~9/18 한정 행사)</p>
-          <p>#하이볼과 함께하는 힐링타임 🍋 (신상품 출시 기념 특별 할인)</p>
+          <p>#하이볼과 함께하는 힐링타임 🍋 (신상품 출시 기념 특별 할인)</p> */}
         </CardContent>
       </Card>
     </div>
