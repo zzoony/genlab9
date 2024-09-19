@@ -16,7 +16,7 @@ const formatCopy = (text: string) => {
 
 export function MainPage() {
   const [product, setProduct] = useState('하이볼')
-  const [theme, setTheme] = useState('할인')
+  const [theme, setTheme] = useState('1+1')
   const [channel, setChannel] = useState('우리동네 GS APP')
   const [contentType, setContentType] = useState('이벤트 배너')
   const [targetAudience, setTargetAudience] = useState('20대 / 여성 / MZ세대')
