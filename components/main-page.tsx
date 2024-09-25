@@ -134,6 +134,8 @@ export function MainPage() {
                   <SelectItem value="20대 / 여성 / MZ세대">20대 / 여성 / MZ세대</SelectItem>
                   <SelectItem value="30대 / 남성 / 직장인">30대 / 남성 / 직장인</SelectItem>
                   <SelectItem value="40대 / 여성 / 주부">40대 / 여성 / 주부</SelectItem>
+                  <SelectItem value="50대 / 남성 / 자영업">50대 / 남성 / 자영업</SelectItem>
+                  <SelectItem value="60대 / 여성 / 노인">60대 / 여성 / 노인</SelectItem>
                 </SelectContent>
               </Select>
             </div>
